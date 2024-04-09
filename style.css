@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    background-color: white; /* Change as needed */
+}
+
+#logoContainer {
+    position: absolute;
+    will-change: transform; /* Optimizes animations */
+}
+
+#logo {
+    width: 400px; /* Adjust based on your logo's size */
+    height: auto;
+}
