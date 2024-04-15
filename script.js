@@ -1,6 +1,6 @@
 const logo = document.getElementById('logoContainer');
-let dx = 2; 
-let dy = 2; 
+let dx = 1; 
+let dy = 1; 
 let x = 0; 
 let y = 0; 
 let screenWidth = window.innerWidth - logo.clientWidth;
